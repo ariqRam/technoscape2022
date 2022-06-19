@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.gameSearchList {
+  list-style-type: none;
+}
+
+.gameList {
+  margin: 20px;
+}
+
+.gameList Button {
+  margin-top: 15px;
+}
+
+.currencyBuyListItem {
+  margin: 5px;
+}
+
+.currencyBuyListItem:hover {
+  cursor: pointer;
+}
+
+.loginInput {
+  width: 200px;
+  margin: auto;
+}
+
+.loginRegister {
+  text-decoration: underline;
+}
+
+.loginRegister:hover {
+  cursor: pointer;
+}
